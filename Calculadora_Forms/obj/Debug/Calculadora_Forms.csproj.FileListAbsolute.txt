@@ -1,0 +1,10 @@
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\bin\Debug\Calculadora_Forms.exe.config
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\bin\Debug\Calculadora_Forms.exe
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\bin\Debug\Calculadora_Forms.pdb
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.csproj.AssemblyReference.cache
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.Form1.resources
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.Properties.Resources.resources
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.csproj.GenerateResource.cache
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.exe
+C:\Users\Márcio\source\repos\Calculadora_Forms\Calculadora_Forms\obj\Debug\Calculadora_Forms.pdb
